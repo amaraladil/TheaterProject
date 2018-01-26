@@ -1,0 +1,16 @@
+C:\Users\Troll\Desktop\Durham College\Semester 2\NETD\LabWork\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Troll\Desktop\Durham College\Semester 2\NETD\LabWork\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Troll\Desktop\Durham College\Semester 2\NETD\LabWork\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Troll\Desktop\Durham College\Semester 2\NETD\LabWork\FinalProject\bin\Debug\FinalProject.xml
+C:\Users\Troll\Desktop\Durham College\Semester 2\NETD\LabWork\FinalProject\obj\Debug\FinalProject.Resources.resources
+C:\Users\Troll\Desktop\Durham College\Semester 2\NETD\LabWork\FinalProject\obj\Debug\FinalProject.vbproj.GenerateResource.Cache
+C:\Users\Troll\Desktop\Durham College\Semester 2\NETD\LabWork\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Troll\Desktop\Durham College\Semester 2\NETD\LabWork\FinalProject\obj\Debug\FinalProject.xml
+C:\Users\Troll\Desktop\Durham College\Semester 2\NETD\LabWork\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\Troll\Desktop\Durham College\Semester 2\NETD\LabWork\FinalProject\obj\Debug\FinalProject.frmTheater.resources
+C:\Users\Troll\Desktop\Durham College\Semester 2\NETD\LabWork\FinalProject\obj\Debug\FinalProject.Available.resources
+C:\Users\Troll\Desktop\Durham College\Semester 2\NETD\LabWork\FinalProject\obj\Debug\FinalProject.frmReservedOrPaid.resources
+C:\Users\Troll\Desktop\Durham College\Semester 2\NETD\LabWork\FinalProject\obj\Debug\FinalProject.frmAddPerform.resources
+C:\Users\Troll\Desktop\Durham College\Semester 2\NETD\LabWork\FinalProject\obj\Debug\FinalProject.frmEmptySeats.resources
+C:\Users\Troll\Desktop\Durham College\Semester 2\NETD\LabWork\FinalProject\obj\Debug\FinalProject.mnuMovieRevenue.resources
+C:\Users\Troll\Desktop\Durham College\Semester 2\NETD\LabWork\FinalProject\obj\Debug\FinalProject.vbprojResolveAssemblyReference.cache
