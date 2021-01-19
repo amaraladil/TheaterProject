@@ -1,0 +1,16 @@
+C:\Users\amara\Documents\GitHub\TheaterProject\FinalProject\bin\Release\FinalProject.exe.config
+C:\Users\amara\Documents\GitHub\TheaterProject\FinalProject\bin\Release\FinalProject.exe
+C:\Users\amara\Documents\GitHub\TheaterProject\FinalProject\bin\Release\FinalProject.pdb
+C:\Users\amara\Documents\GitHub\TheaterProject\FinalProject\bin\Release\FinalProject.xml
+C:\Users\amara\Documents\GitHub\TheaterProject\FinalProject\obj\Release\FinalProject.Available.resources
+C:\Users\amara\Documents\GitHub\TheaterProject\FinalProject\obj\Release\FinalProject.frmEmptySeats.resources
+C:\Users\amara\Documents\GitHub\TheaterProject\FinalProject\obj\Release\FinalProject.frmAddPerform.resources
+C:\Users\amara\Documents\GitHub\TheaterProject\FinalProject\obj\Release\FinalProject.frmTheater.resources
+C:\Users\amara\Documents\GitHub\TheaterProject\FinalProject\obj\Release\FinalProject.mnuMovieRevenue.resources
+C:\Users\amara\Documents\GitHub\TheaterProject\FinalProject\obj\Release\FinalProject.Resources.resources
+C:\Users\amara\Documents\GitHub\TheaterProject\FinalProject\obj\Release\FinalProject.frmReservedOrPaid.resources
+C:\Users\amara\Documents\GitHub\TheaterProject\FinalProject\obj\Release\FinalProject.vbproj.GenerateResource.cache
+C:\Users\amara\Documents\GitHub\TheaterProject\FinalProject\obj\Release\FinalProject.vbproj.CoreCompileInputs.cache
+C:\Users\amara\Documents\GitHub\TheaterProject\FinalProject\obj\Release\FinalProject.exe
+C:\Users\amara\Documents\GitHub\TheaterProject\FinalProject\obj\Release\FinalProject.xml
+C:\Users\amara\Documents\GitHub\TheaterProject\FinalProject\obj\Release\FinalProject.pdb

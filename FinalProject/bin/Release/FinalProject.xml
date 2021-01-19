@@ -1,0 +1,308 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FinalProject
+</name>
+</assembly>
+<members>
+<member name="T:FinalProject.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:FinalProject.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:FinalProject.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:FinalProject.Available.Available_Load(System.Object,System.EventArgs)">
+ <summary>
+ Sets the text value for each label
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:FinalProject.Available.btnExit_Click(System.Object,System.EventArgs)">
+ <summary>
+ Closes window
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:FinalProject.Available.btnPurchase_Click(System.Object,System.EventArgs)">
+ <summary>
+ Checks the Name textbox and then purchases the seat
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:FinalProject.Available.putPaidSeat(FinalProject.DBL.Tables.Seating)">
+ <summary>
+ Takes the new row values
+ </summary>
+ <param name="seat"></param>
+ <remarks></remarks>
+</member>
+<member name="M:FinalProject.Available.btnReserve_Click(System.Object,System.EventArgs)">
+ <summary>
+ Checks the Name textbox and then reserves the seat
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:FinalProject.frmEmptySeats.DataTableWithEmptySeats_Load(System.Object,System.EventArgs)">
+ <summary>
+ Loads in the table with the right amount of empty seats
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:FinalProject.frmAddPerform.btnInsert_Click(System.Object,System.EventArgs)">
+ <summary>
+ Validates the inputs for performance table and inserts a new row
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:FinalProject.frmAddPerform.setPerform(FinalProject.DBL.Tables.Performance)">
+ <summary>
+ Sets all the fieldnames from performance
+ </summary>
+ <param name="perform"></param>
+ <remarks></remarks>
+</member>
+<member name="M:FinalProject.frmAddPerform.btnExit_Click(System.Object,System.EventArgs)">
+ <summary>
+ Closes window
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:FinalProject.frmTheater.frmTheater_Load(System.Object,System.EventArgs)">
+ <summary>
+ Loads the objects in the form
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:FinalProject.frmTheater.ComboBox1_SelectedIndexChanged(System.Object,System.EventArgs)">
+ <summary>
+ If combobox changes, it sets the reserved seats
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:FinalProject.frmTheater.ReservedSeats">
+ <summary>
+ Checks seats for the specific performance chosen on combo box
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:FinalProject.frmTheater.setDefault">
+ <summary>
+ Resets the form back to default
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:FinalProject.frmTheater.AvailibleSeatsToolStripMenuItem_Click(System.Object,System.EventArgs)">
+ <summary>
+ opens the AvailibleSeats form
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:FinalProject.frmTheater.MovieRevenuesToolStripMenuItem_Click(System.Object,System.EventArgs)">
+ <summary>
+ Opens Movie Revenue Form
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:FinalProject.frmTheater.Label_Click(System.Object,System.EventArgs)">
+ <summary>
+ Click Settings
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:FinalProject.frmTheater.btnPerform_Click(System.Object,System.EventArgs)">
+ <summary>
+ Shows Add Performance Window
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:FinalProject.frmTheater.btnExit_Click(System.Object,System.EventArgs)">
+ <summary>
+ Closes the program
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:FinalProject.mnuMovieRevenue.MovieRevenue_Load(System.Object,System.EventArgs)">
+ <summary>
+ Loads in a table with performance revenue
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:FinalProject.frmReservedOrPaid.frmReservedOrPaid_Load(System.Object,System.EventArgs)">
+ <summary>
+ Checks if the clicked label was a paid seat or not
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:FinalProject.frmReservedOrPaid.btnPaid_Click(System.Object,System.EventArgs)">
+ <summary>
+ Sets the seat to be paid
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="M:FinalProject.frmReservedOrPaid.getSeat(FinalProject.DBL.Tables.Seating)">
+ <summary>
+ Gets the new row values
+ </summary>
+ <param name="seat"></param>
+ <remarks></remarks>
+</member>
+<member name="M:FinalProject.frmReservedOrPaid.btnCancel_Click(System.Object,System.EventArgs)">
+ <summary>
+ Cancels the Seat reservation
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="T:FinalProject.TheatreFinalProjectDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:FinalProject.TheatreFinalProjectDataSet.PerformancesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FinalProject.TheatreFinalProjectDataSet.SeatingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FinalProject.TheatreFinalProjectDataSet.qryTicketSalesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:FinalProject.TheatreFinalProjectDataSet.PerformancesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FinalProject.TheatreFinalProjectDataSet.SeatingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FinalProject.TheatreFinalProjectDataSet.qryTicketSalesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:FinalProject.TheatreFinalProjectDataSet.PerformancesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FinalProject.TheatreFinalProjectDataSet.SeatingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FinalProject.TheatreFinalProjectDataSet.qryTicketSalesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:FinalProject.TheatreFinalProjectDataSetTableAdapters.PerformancesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FinalProject.TheatreFinalProjectDataSetTableAdapters.SeatingTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FinalProject.TheatreFinalProjectDataSetTableAdapters.qryTicketSalesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:FinalProject.TheatreFinalProjectDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:FinalProject.TheatreFinalProjectDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(FinalProject.TheatreFinalProjectDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:FinalProject.TheatreFinalProjectDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(FinalProject.TheatreFinalProjectDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:FinalProject.TheatreFinalProjectDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(FinalProject.TheatreFinalProjectDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:FinalProject.TheatreFinalProjectDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:FinalProject.TheatreFinalProjectDataSetTableAdapters.TableAdapterManager.UpdateAll(FinalProject.TheatreFinalProjectDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:FinalProject.TheatreFinalProjectDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:FinalProject.TheatreFinalProjectDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
